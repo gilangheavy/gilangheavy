@@ -24,3 +24,6 @@
 ### Access Web Browser
 
 `http://your_server_ip`
+
+### Setup Root Password
+`sudo passwd`
