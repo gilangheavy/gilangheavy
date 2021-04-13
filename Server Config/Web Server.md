@@ -27,3 +27,9 @@
 
 ### Setup Root Password
 `sudo passwd`
+
+### List User
+`cat /etc/passwd`
+
+### Delete User and Folder
+`userdel -r user`
