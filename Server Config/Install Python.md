@@ -3,7 +3,7 @@
 ### Update OS
 `sudo yum -y update`
 
-### Install required software development tools required to build Python 3.9 on CentOS 8 :
+## Install required software development tools required to build Python 3.9 on CentOS 8 :
 
 `sudo yum groupinstall "Development Tools" -y` `sudo yum install openssl-devel libffi-devel bzip2-devel -y`
 
