@@ -27,4 +27,8 @@
 
 `http://your_server_ip`
 
+If Change Root Directory Don't Forget
+`chcon -Rt httpd_sys_content_t /path/to/www` and `sudo setsebool -P httpd_can_network_connect on`
+
+
 
