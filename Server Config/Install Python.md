@@ -24,7 +24,9 @@
 ### Switch to the directory created from the file extraction:
 `cd Python-3.9*/`
 
-### Install Python 3.9 on CentOS 8
+## Install Python 3.9 on CentOS 8
+
+### configure Python installation
 `./configure --enable-optimizations`
 
 ### Build Python 3.9 on CentOS 8
