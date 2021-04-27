@@ -31,7 +31,7 @@ If Change Root Directory Don't Forget
 `chcon -Rt httpd_sys_content_t /path/to/www` and `sudo setsebool -P httpd_can_network_connect on`
 
 ### Server Block 
-server {
+`server {
         listen 80;
         server_name domain.com www.domain.com;
         root /home;
@@ -47,6 +47,6 @@ server {
         location ~ /\.ht {
                 deny all;
         }
-}
+}`
 
 
