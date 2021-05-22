@@ -33,3 +33,24 @@
 
 ### Delete User and Folder
 `userdel -r user`
+
+=====================================================
+
+### Config Apache Virtual Host
+`cd /etc/httpd/conf.d` 
+
+### Setup Virtual Host
+<VirtualHost *:80>
+    ServerName example.com
+    ServerAlias www.example.com
+    ServerAdmin webmaster@example.com
+    DocumentRoot /var/www/example.com/public_html
+
+    <Directory /var/www/example.com/public_html>
+        Options -Indexes +FollowSymLinks
+        AllowOverride All
+    </Directory>
+
+    ErrorLog /var/log/httpd/example.com-error.log
+    CustomLog /var/log/httpd/example.com-access.log combined
+</VirtualHost>
