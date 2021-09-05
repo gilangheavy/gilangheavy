@@ -31,6 +31,7 @@ If Change Root Directory Don't Forget
 - `chcon -Rt httpd_sys_content_t`
 - `chcon -Rv --type=httpd_sys_rw_content_t /path/to/www` 
 - `sudo setsebool -P httpd_can_network_connect on`
+- `chmod 777 -R /path/writable/`
 
 ### Server Block 
 `server {
