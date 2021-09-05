@@ -28,7 +28,9 @@
 `http://your_server_ip`
 
 If Change Root Directory Don't Forget
-`chcon -Rv --type=httpd_sys_rw_content_t /path/to/www` and `sudo setsebool -P httpd_can_network_connect on`
+- `chcon -Rt httpd_sys_content_t`
+- `chcon -Rv --type=httpd_sys_rw_content_t /path/to/www` 
+- `sudo setsebool -P httpd_can_network_connect on`
 
 ### Server Block 
 `server {
