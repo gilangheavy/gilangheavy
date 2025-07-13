@@ -3,7 +3,7 @@
 Welcome to my page!
 I'm Gilang, An Software Engineer from <img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="10" /> Semarang, Indonesia.
 <br/>
-Currently, I currently work as an employee at one of the ministries in Indonesia, Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/) and a co-founder of [@Alenxi Technology](https://alenxi.com/). Beside's programming, I enjoy explore new things and traveling.
+Currently, I currently work as an employee at one of the ministries in Indonesia, Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/) and a co-founder of [@Alenxi Technology](https://alenxi.com/).
 
 **Tech Stacks:**
 
