@@ -382,7 +382,7 @@ sequenceDiagram
     participant PHP
     participant MySQL
 
-    rect rgb(200, 255, 200)
+    rect rgba(48, 48, 48, 1)
         Note over App,MySQL: First Request in PHP Process
         App->>PHP: Handle Request
         PHP->>MySQL: 1. TCP Connect (10-20ms)
@@ -393,7 +393,7 @@ sequenceDiagram
         PHP-->>App: Response
     end
 
-    rect rgb(200, 220, 255)
+    rect rgba(48, 48, 48, 1)
         Note over App,MySQL: Subsequent Requests (Same PHP Process)
         App->>PHP: Handle Request
         Note over PHP,MySQL: Reuse existing connection (0ms)
@@ -402,7 +402,7 @@ sequenceDiagram
         PHP-->>App: Response
     end
 
-    rect rgb(255, 220, 200)
+    rect rgba(48, 48, 48, 1)
         Note over PHP,MySQL: Connection kept alive until:<br/>- PHP-FPM process terminates<br/>- wait_timeout exceeded<br/>- Manual disconnect
     end
 ```
@@ -468,3 +468,4 @@ sequenceDiagram
 | Database CPU     | High                    | Medium                | Low              |
 
 **Kesimpulan: 50-70% performance improvement dengan pConnect=true!** 🚀
+
