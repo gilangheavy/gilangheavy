@@ -1,9 +1,9 @@
 ## Howdy World! 👋 I'm Gilang Heavy
 
-Welcome to my page!
-I'm Gilang, An Software Engineer from <img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="10" /> Semarang, Indonesia.
+
+Welcome to my page! I'm a Software Architect & Backend Engineer from 🇮🇩 Semarang, Indonesia.
 <br/>
-Currently, I currently work as an employee at one of the ministries in Indonesia, Freelancer 👨🏽‍💻 [@Upwork]([https://www.upwork.com/](https://upwork.com/freelancers/~01a2f7a24be9859e5f)) and a co-founder of [@Alenxi Technology](https://alenxi.com/).
+I specialize in designing scalable backend architectures, secure RESTful APIs, and complex system integrations. Currently, I architect national-scale Healthcare/EMR systems handling millions of sensitive data transactions, while also serving as a Freelance Consultant 👨‍💻 [@Upwork]([https://www.upwork.com/](https://upwork.com/freelancers/~01a2f7a24be9859e5f)) and Co-founder of [@Alenxi Technology](https://alenxi.com/).
 
 **Tech Stacks:**
 
