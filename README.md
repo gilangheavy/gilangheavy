@@ -3,7 +3,7 @@
 
 Welcome to my page! I'm a Software Architect & Backend Engineer from 🇮🇩 Semarang, Indonesia.
 <br/>
-I specialize in designing scalable backend architectures, secure RESTful APIs, and complex system integrations. Currently, I architect national-scale Healthcare/EMR systems handling millions of sensitive data transactions, while also serving as a Freelance Consultant 👨‍💻 [@Upwork]([https://www.upwork.com/](https://upwork.com/freelancers/~01a2f7a24be9859e5f)) and Co-founder of [@Alenxi Technology](https://alenxi.com/).
+I specialize in designing scalable backend architectures, secure RESTful APIs, and complex system integrations. Currently, I architect national-scale Healthcare/EMR systems handling millions of sensitive data transactions, while also as a External Code Reviewer 👨‍💻 [@Dicoding](https://www.dicoding.com/) and Co-founder of [@Alenxi Technology](https://alenxi.com/).
 
 **Tech Stacks:**
 
@@ -14,8 +14,10 @@ I specialize in designing scalable backend architectures, secure RESTful APIs, a
 |
 &nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/nimasfl/nestjs-icons/325530fd2b05f354d44ce5cf94c056dde019a8fe/file_type_nestjs.svg"></code>
 &nbsp;
 |
 &nbsp;
