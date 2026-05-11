@@ -3,7 +3,7 @@
 
 Welcome to my page! I'm a Software Architect & Backend Engineer from 🇮🇩 Semarang, Indonesia.
 <br/>
-I specialize in designing scalable backend architectures, secure RESTful APIs, and complex system integrations. Currently, I architect national-scale Healthcare/EMR systems handling millions of sensitive data transactions, while also as a External Code Reviewer 👨‍💻 [@Dicoding](https://www.dicoding.com/) and Co-founder of [@Alenxi Technology](https://alenxi.com/).
+I specialize in designing scalable backend architectures, secure RESTful APIs, and complex system integrations. Currently, I architect national-scale Healthcare/EMR systems handling millions of sensitive data transactions, while also as a External Code Reviewer 👨‍💻 [@Dicoding](https://www.dicoding.com/) and Founder of [@Inakes](https://inakes.id/).
 
 **Tech Stacks:**
 
